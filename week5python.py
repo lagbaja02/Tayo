@@ -131,7 +131,7 @@ app.layout = html.Div(children=[
                                           html.Div([ ], id='plot4'),
                                           html.Div([ ], id='plot5')
                                          ], 
-                                          style={'display': 'flex'}),
+                                          style={'display': 'flex'}),])
                                            # Callback function definition
 # TASK4: Add 5 ouput components
 # Enter your code below. Make sure you have correct formattinoperty='value')],
